@@ -1,6 +1,6 @@
 # epicture
 
-A new Flutter application.
+A new Flutter application. -> new update incoming
 
 ## Getting Started
 
