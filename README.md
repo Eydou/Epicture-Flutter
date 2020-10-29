@@ -15,4 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Farmers Market Finder Demo](SmartSelect_20201026-195520.gif)
+<div align="center">
+    <img src="SmartSelect_20201026-195520.gif" width="400px"</img> 
+    <img src="Screenshot_20201029-192626.jpg" width="400px"</img> 
+</div>
