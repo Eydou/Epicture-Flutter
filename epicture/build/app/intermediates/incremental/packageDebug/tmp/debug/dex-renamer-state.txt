@@ -1,0 +1,4 @@
+#Wed Oct 21 01:30:04 CEST 2020
+base.0=/Users/matt/Documents/B-DEV-501-PAR-5-1-epicture-edouard.touch/epicture/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
