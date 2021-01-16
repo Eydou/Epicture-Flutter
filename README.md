@@ -1,4 +1,4 @@
-# epicture
+# epicture project
 
 A new Flutter application. -> new update incoming
 
